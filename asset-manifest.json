@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.905d1608.css",
-    "main.js": "/static/js/main.bfa22691.js",
-    "index.html": "/index.html",
-    "main.905d1608.css.map": "/static/css/main.905d1608.css.map",
-    "main.bfa22691.js.map": "/static/js/main.bfa22691.js.map"
+    "main.css": "/InstaMovies2/static/css/main.905d1608.css",
+    "main.js": "/InstaMovies2/static/js/main.2986cfe0.js",
+    "index.html": "/InstaMovies2/index.html",
+    "main.905d1608.css.map": "/InstaMovies2/static/css/main.905d1608.css.map",
+    "main.2986cfe0.js.map": "/InstaMovies2/static/js/main.2986cfe0.js.map"
   },
   "entrypoints": [
     "static/css/main.905d1608.css",
-    "static/js/main.bfa22691.js"
+    "static/js/main.2986cfe0.js"
   ]
 }
